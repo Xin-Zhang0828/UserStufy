@@ -1,0 +1,67 @@
+{"Type": "Set_1", "images": [
+
+    ["static/data/wave/direct/1_direct.gif", "static/data/wave/simple/1_simple.gif"],
+      ["static/data/wave/direct/1_direct.gif", "static/data/wave/sift/1_sift.gif"],
+      ["static/data/wave/direct/1_direct.gif", "static/data/wave/mean/1_mean.gif"],
+      ["static/data/wave/simple/1_simple.gif", "static/data/wave/sift/1_sift.gif"],
+      ["static/data/wave/simple/1_simple.gif", "static/data/wave/mean/1_mean.gif"],
+      ["static/data/wave/sift/1_sift.gif", "static/data/wave/mean/1_mean.gif"],
+
+        ["static/data/scream/direct/1_direct.gif", "static/data/scream/simple/1_simple.gif"],
+      ["static/data/scream/direct/1_direct.gif", "static/data/scream/sift/1_sift.gif"],
+      ["static/data/scream/direct/1_direct.gif", "static/data/scream/mean/1_mean.gif"],
+      ["static/data/scream/simple/1_simple.gif", "static/data/scream/sift/1_sift.gif"],
+      ["static/data/scream/simple/1_simple.gif", "static/data/scream/mean/1_mean.gif"],
+      ["static/data/scream/sift/1_sift.gif", "static/data/scream/mean/1_mean.gif"],
+
+      ["static/data/udnie/direct/1_direct.gif", "static/data/udnie/simple/1_simple.gif"],
+      ["static/data/udnie/direct/1_direct.gif", "static/data/udnie/sift/1_sift.gif"],
+      ["static/data/udnie/direct/1_direct.gif", "static/data/udnie/mean/1_mean.gif"],
+      ["static/data/udnie/simple/1_simple.gif", "static/data/udnie/sift/1_sift.gif"],
+      ["static/data/udnie/simple/1_simple.gif", "static/data/udnie/mean/1_mean.gif"],
+      ["static/data/udnie/sift/1_sift.gif", "static/data/udnie/mean/1_mean.gif"],
+
+
+      ["static/data/wave/direct/2_direct.gif", "static/data/wave/simple/2_simple.gif"],
+      ["static/data/wave/direct/2_direct.gif", "static/data/wave/sift/2_sift.gif"],
+      ["static/data/wave/direct/2_direct.gif", "static/data/wave/mean/2_mean.gif"],
+      ["static/data/wave/simple/2_simple.gif", "static/data/wave/sift/2_sift.gif"],
+      ["static/data/wave/simple/2_simple.gif", "static/data/wave/mean/2_mean.gif"],
+      ["static/data/wave/sift/2_sift.gif", "static/data/wave/mean/2_mean.gif"],
+
+      ["static/data/scream/direct/2_direct.gif", "static/data/scream/simple/2_simple.gif"],
+      ["static/data/scream/direct/2_direct.gif", "static/data/scream/sift/2_sift.gif"],
+      ["static/data/scream/direct/2_direct.gif", "static/data/scream/mean/2_mean.gif"],
+      ["static/data/scream/simple/2_simple.gif", "static/data/scream/sift/2_sift.gif"],
+      ["static/data/scream/simple/2_simple.gif", "static/data/scream/mean/2_mean.gif"],
+      ["static/data/scream/sift/2_sift.gif", "static/data/scream/mean/2_mean.gif"],
+
+      ["static/data/udnie/direct/2_direct.gif", "static/data/udnie/simple/2_simple.gif"],
+      ["static/data/udnie/direct/2_direct.gif", "static/data/udnie/sift/2_sift.gif"],
+      ["static/data/udnie/direct/2_direct.gif", "static/data/udnie/mean/2_mean.gif"],
+      ["static/data/udnie/simple/2_simple.gif", "static/data/udnie/sift/2_sift.gif"],
+      ["static/data/udnie/simple/2_simple.gif", "static/data/udnie/mean/2_mean.gif"],
+      ["static/data/udnie/sift/2_sift.gif", "static/data/udnie/mean/2_mean.gif"],
+
+
+      ["static/data/wave/direct/3_direct.gif", "static/data/wave/simple/3_simple.gif"],
+      ["static/data/wave/direct/3_direct.gif", "static/data/wave/sift/3_sift.gif"],
+      ["static/data/wave/direct/3_direct.gif", "static/data/wave/mean/3_mean.gif"],
+      ["static/data/wave/simple/3_simple.gif", "static/data/wave/sift/3_sift.gif"],
+      ["static/data/wave/simple/3_simple.gif", "static/data/wave/mean/3_mean.gif"],
+      ["static/data/wave/sift/3_sift.gif", "static/data/wave/mean/3_mean.gif"],
+
+      ["static/data/scream/direct/3_direct.gif", "static/data/scream/simple/3_simple.gif"],
+      ["static/data/scream/direct/3_direct.gif", "static/data/scream/sift/3_sift.gif"],
+      ["static/data/scream/direct/3_direct.gif", "static/data/scream/mean/3_mean.gif"],
+      ["static/data/scream/simple/3_simple.gif", "static/data/scream/sift/3_sift.gif"],
+      ["static/data/scream/simple/3_simple.gif", "static/data/scream/mean/3_mean.gif"],
+      ["static/data/scream/sift/3_sift.gif", "static/data/scream/mean/3_mean.gif"],
+
+      ["static/data/udnie/direct/3_direct.gif", "static/data/udnie/simple/3_simple.gif"],
+      ["static/data/udnie/direct/3_direct.gif", "static/data/udnie/sift/3_sift.gif"],
+      ["static/data/udnie/direct/3_direct.gif", "static/data/udnie/mean/3_mean.gif"],
+      ["static/data/udnie/simple/3_simple.gif", "static/data/udnie/sift/3_sift.gif"],
+      ["static/data/udnie/simple/3_simple.gif", "static/data/udnie/mean/3_mean.gif"],
+      ["static/data/udnie/sift/3_sift.gif", "static/data/udnie/mean/3_mean.gif"]
+]}

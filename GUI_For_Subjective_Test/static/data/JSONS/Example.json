@@ -1,0 +1,8 @@
+{"Type": "Examples", "images": [
+
+    ["static/data/wave/direct/1_direct.gif", "static/data/wave/simple/1_simple.gif"],
+
+      ["static/data/scream/direct/2_direct.gif", "static/data/scream/sift/2_sift.gif"],
+
+      ["static/data/udnie/direct/3_direct.gif", "static/data/udnie/mean/3_mean.gif"]
+]}

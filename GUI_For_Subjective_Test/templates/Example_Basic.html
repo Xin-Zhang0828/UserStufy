@@ -1,0 +1,33 @@
+<html>
+<header>
+<title>Aesthetic Image Captioning</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link href="static/gui_style.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</header>
+<body>
+<h1>Examples</h1>
+<br><br><br>
+
+<div class="image_container">
+<img src={{image_0}} alt={{image_0}} >
+    <img src={{image_1}} alt={{image_1}}>
+</div>
+
+<div class="radio_block" align="center">
+  <input type="radio" name="better_image" value="image_0" checked> Image 0
+  <input type="radio" name="better_image" value="image_1"> Image 1
+</div>
+
+
+<div align="center">
+<form action=/display_next_example_stimuli method="post">
+	<input type="submit" value="Next">
+</form>
+</div>
+
+</body>
+</html>
